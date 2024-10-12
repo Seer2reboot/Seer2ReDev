@@ -2,7 +2,7 @@ site_name: Seer2Redev
 nav:
   - 主页: index.md
   - 资料链接: link.md
-  - Setup: setup.md
+  - 工具集合: tools.md
   - Usage: usage.md
   - Advanced Topics:
       - Customization: customization.md
