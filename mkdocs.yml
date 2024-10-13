@@ -23,10 +23,9 @@ docs_dir: docs  # 文档的目录，默认是 'docs'
 
 
 # 配置额外信息，例如版权、联系信息等
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/你的GitHub账户
+config:
+  # 其他配置项...
+  repo_url: https://github.com/yourusername/your-repo
 
 markdown_extensions:
   - toc:
